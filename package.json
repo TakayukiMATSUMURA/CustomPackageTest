@@ -1,6 +1,6 @@
 {
     "name": "com.comony.sdk",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": "ComonySDK",
     "description": "This is SDK of comony.",
     "unity": "2020.2"

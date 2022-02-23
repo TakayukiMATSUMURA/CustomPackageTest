@@ -7,6 +7,6 @@ public class Hello : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello custom package");
+        Debug.Log("Hello custom package 0.1.1");
     }
 }
